@@ -1,0 +1,4 @@
+<!DOCTYPE html>
+<html>
+<body><div class="background" style="position: relative; width: 728px; height: 200px;">
+<body></html>
